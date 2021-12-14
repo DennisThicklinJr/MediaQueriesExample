@@ -1,0 +1,10 @@
+/*this changes the background color as soon as the screen width
+is 600px or less*/
+@media (max-width: 768px){
+    body{
+        background: rgb(102, 217, 255);
+    }
+    .mobile{
+        font-size: 2.4rem;
+    }
+}
